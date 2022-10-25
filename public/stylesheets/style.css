@@ -1,0 +1,107 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.mb-3{
+  width: 35%;
+}
+.data{
+  margin-top: 18%;
+  
+}
+a{
+  text-decoration: none;
+  
+}
+.s{
+  margin-left: 60%;
+  margin-top:-80px;
+  border-radius: 50px;
+  height: 45px;
+  width:110px;
+  background-color: #1ED760;
+  color:black;
+  border: none;
+
+}
+.r{
+  width:35%;
+  margin-left: 33%;
+}
+h5{
+   font-weight: 800;
+   margin-left: 41%;
+}
+.sb{
+  width:35%;
+  margin-left: 33%;
+  height:50px;
+border-radius: 50px;
+margin-top: 20px;
+border: 1px solid gray;
+color:gray;
+}
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top:20px;
+  left:44%;
+}
+.h{
+ width:100%;
+ position: absolute;
+ left:0;
+ top:12%;
+}
+.line{
+  height:1px;
+  width:28%;
+  background-color: white;
+  border: 1px solid rgb(226, 221, 221);
+  padding: 0.4px;
+}
+
+.or{
+display: flex;
+align-items: center;
+position: absolute;
+left:35%;
+top:38%;
+width:50%;
+ 
+}
+.or h6{
+  font-size: 10px;
+  font-weight: 700;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.sl{
+  margin-right: 7px;
+  height:55px;
+}
+.l{
+  font-weight: 700;
+  font-size: 35px;
+}
+.login{
+  width:30%;
+  position: absolute;
+  height:50px;
+border-radius: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+left: 35%;
+top:27%;
+border: 1px solid gray;
+color:gray;
+background-color: white;
+}
+img{
+  height:30px;
+}
